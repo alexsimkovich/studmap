@@ -1,0 +1,33 @@
+.popular__h1 {
+  margin-top: 30px;
+  margin-bottom: 15px;
+  font-size: 45px;
+  color: $color-text2;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.popular__h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 40px;
+  font-weight: 600;
+}
+.popular__h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.profile__h1 {
+  position: absolute;
+  bottom: 30px;
+  font-size: 55px;
+  color: $color-white;
+  text-shadow: 1px 1px 10px rgba(0,0,0,.8);
+  
+  span {
+    font-size: 35px;
+  }
+}

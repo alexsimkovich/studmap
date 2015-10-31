@@ -1,0 +1,8 @@
+.btn-default {
+  padding: 10px 30px;
+  text-transform: uppercase;
+  color: $color-white;
+  background-color: $color-secondary;
+  @include sq-border-radius($radius: 2px);
+  border-color: $color-secondary;
+}

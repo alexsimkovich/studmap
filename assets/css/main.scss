@@ -6,9 +6,14 @@
 //Globals
 @import "globals/colors";
 @import "globals/fonts";
+@import "globals/typography";
+@import "globals/buttons";
 @import "globals/starting";
 //UI
 @import "ui/nav";
 @import "ui/controls";
 //Project
 @import "project/header";
+@import "project/popular";
+@import "project/profile";
+@import "project/footer";
