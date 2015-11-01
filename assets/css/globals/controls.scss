@@ -1,0 +1,12 @@
+.form-control {
+  height: 41px;
+  border: 1px solid #e6e6e6;
+  box-shadow: none;
+  @include sq-border-radius($radius: 2px);
+}
+
+.profile__form {
+  label {
+    font-weight: 500;
+  }
+}
