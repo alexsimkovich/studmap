@@ -60,11 +60,8 @@ module.exports = function(grunt) {
     concat: {
       dist: {
         src: [
-          'assets/js/lib/jquery.js', // All JS in the libs folder
-          'assets/js/lib/isotope.pkgd.js', // All JS in the libs folder
-          'assets/js/lib/slick.js', // All JS in the libs folder
-          'assets/js/lib/countUp.js', // All JS in the libs folder
-          'assets/js/general.js'
+          'assets/js/plugins.js', // All JS in the libs folder
+          'assets/js/smoothscroll.js', // All JS in the libs folder
         ],
         dest: 'build/js/production.js'
       }

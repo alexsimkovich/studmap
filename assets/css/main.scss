@@ -9,6 +9,7 @@
 @import "globals/typography";
 @import "globals/buttons";
 @import "globals/controls";
+@import "globals/pagination";
 @import "globals/starting";
 //UI
 @import "ui/nav";
@@ -17,4 +18,5 @@
 @import "project/header";
 @import "project/popular";
 @import "project/profile";
+@import "project/search-results";
 @import "project/footer";
